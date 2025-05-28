@@ -1,0 +1,37 @@
+    p {
+        color: blue;
+        font-family: Impact;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    h2 {
+        color: red;
+        background-color: aqua;
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+        font-style: italic;
+    }
+
+    .caja {
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        box-shadow: -14px 32px 40px 14px rgba(48, 30, 180, 0.75);
+        border-top: 10px dotted #fff050;
+        border-right: 10px dashed #ff6550;
+        border-bottom: 10px ridge #ff6550;
+        border-left: 10px solid #ff6550;
+    }
+    .destacados {
+        color: red;
+        font-style: italic;
+    }
+    #caja2{
+        width: 300px;
+        height: 250px;
+        background-color: green;
+    }

@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    font-family: Verdana;
+    text-align: center;
+    background-color: violet;
+}
+
+.verbos {
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.caja {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    height: 300px;
+    width: 590px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+    box-shadow: -14px 32px 40px 14px rgba(48, 30, 180, 0.75);
+    border-top: 10px dotted #fff050;
+    border-right: 10px dashed #ff6550;
+    border-bottom: 10px ridge #ff6550;
+    border-left: 10px solid #ff6550;
+}
+.item{
+    margin: 10px;
+}
